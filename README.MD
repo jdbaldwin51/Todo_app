@@ -1,4 +1,5 @@
-# A to-do application built in Ruby using the Sinatra web framework. I completed this project for my studies at Launchschool.
+# A to-do application built in Ruby using the Sinatra web framework. 
+##### I completed this project for my studies at Launchschool.
 
 Ruby, Sinatra, HTML/ERB, CSS, and PostgreSQl
 
